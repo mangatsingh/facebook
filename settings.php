@@ -54,6 +54,4 @@ include("includes/form_handlers/settings_handler.php");
 	<form action="settings.php" method="POST" style="text-align: center;">
 		<input type="submit" name="close_account" id="close_account" value="Close Account" class="danger settings_submit">
 	</form>
-
-	<span>Contect:- Gokokfazilka@gmail.Com</span>
 </div>
