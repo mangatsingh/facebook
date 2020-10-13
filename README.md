@@ -5,7 +5,7 @@
 ![3](https://1.bp.blogspot.com/-3fQ83uSRTfc/X4UGXHcAr0I/AAAAAAAABMU/Hf9rnyIa_L83Ox_XpexhGFloa_p8hMf0QCLcBGAsYHQ/s559/facebook.PNG)
 ![3](https://1.bp.blogspot.com/-0OIJg22nWsc/X4UFF_N3j_I/AAAAAAAABME/emg5PAOQdKU2CpHqBuA-KTmT2YOgOCOnwCLcBGAsYHQ/s486/local.PNG)
 
-## Reset Password
+## Reset Password PHP Mailer
 Go  `resetpassword/requestReset.php` and change this
 ```php
 // Line number 32 and 33
