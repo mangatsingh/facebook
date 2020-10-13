@@ -1,0 +1,112 @@
+html, body {
+	height: 100%;
+	min-height: 100%;
+}
+
+form {
+	text-align: center;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #0129ff;
+}
+
+.wrapper {
+	background-size: 100%;
+	width: 100%;
+	height: auto;
+
+}
+
+.login_box {
+	font-family: 'Montserrat-LightItalic', sans-serif;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	top: 7%;
+	width: 90%;
+	background-color: #ffffff;
+	border: 1px solid #EDEDED;
+	border-radius: 7px;
+	padding: 5px;
+	opacity: 0.98;
+}
+
+.login_header {
+	font-family: 'Montserrat', sans-serif;
+	width: 100%;
+	height: 90px;
+	background-color: #251f44;
+	color: #fff;
+	text-align: center;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+}
+
+.login_header h1 {
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: #FFFFFF;
+	text-shadow: #73B6E2 0.5px 0.5px 0px;
+	font-size: 250%;
+}
+
+input[type="submit"] {
+	background-color: #FFFFFF;
+	border: 1px solid #0129ff;
+	border-radius: 3px;
+	margin: 5px 0 10px 0;
+	padding: 5px 10px 5px 10px;
+	color: #0129ff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 100%;
+	font-weight: bold;
+}
+
+input[type="text"], input[type="email"], input[type="password"] {
+	border: 1px solid #e5e5e5;
+	margin-top: 5px;
+	width: 70%;
+	height: 35px;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+input[type="text"]:hover, input[type="email"]:hover, input[type="password"]:hover {
+	border-color: #3498db;
+}
+
+#second {
+	display: none;
+}
+
+#eyesigner {
+	position: absolute;
+	margin: 15px -30px;
+	z-index: 5;
+	background-color: #fff;
+	color: #979797;
+}
+
+#eyesignerred {
+	position: absolute;
+	margin: 15px -30px;
+	z-index: 5;
+	background-color: #fff;
+	color: #979797;
+}
+
+#eyesignerred2 {
+	position: absolute;
+	margin: 15px -30px;
+	z-index: 5;
+	background-color: #fff;
+	color: #979797;
+}
